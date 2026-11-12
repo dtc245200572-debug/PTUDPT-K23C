@@ -1,0 +1,46 @@
+@api = http://localhost:5000
+
+### Health check - 200
+# @name health
+GET {{api}}/
+
+### Danh sách bài tập - 200
+# @name assignments
+GET {{api}}/api/assignments
+
+### Chi tiết bài tập đang mở - 200
+# @name assignment
+GET {{api}}/api/assignments/1
+
+### Tạo lượt nộp hợp lệ - 201
+# @name createSubmission
+POST {{api}}/api/assignments/1/submissions
+Content-Type: application/json
+
+{
+  "studentCode": "SV002",
+  "repositoryUrl": "https://github.com/example/edusubmit-rest-client"
+}
+
+### Đọc lại lượt nộp vừa tạo - 200
+GET {{api}}/api/submissions/{{createSubmission.response.body.$.id}}
+
+### Bài tập đã đóng - 400 ASSIGNMENT_CLOSED
+# @name closedAssignment
+POST {{api}}/api/assignments/3/submissions
+Content-Type: application/json
+
+{
+  "studentCode": "SV002",
+  "repositoryUrl": "https://github.com/example/closed-assignment"
+}
+
+### Bài tập không tồn tại - 404 ASSIGNMENT_NOT_FOUND
+# @name missingAssignment
+POST {{api}}/api/assignments/999/submissions
+Content-Type: application/json
+
+{
+  "studentCode": "SV002",
+  "repositoryUrl": "https://github.com/example/missing-assignment"
+}
