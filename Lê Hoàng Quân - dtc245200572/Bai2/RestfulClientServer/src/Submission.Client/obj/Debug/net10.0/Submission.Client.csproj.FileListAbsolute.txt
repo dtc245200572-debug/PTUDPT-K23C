@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Bai2\RestfulClientServer\src\Submission.Client\bin\Debug\net10.0\Submission.Client.exe
+C:\Users\Admin\Downloads\Bai2\RestfulClientServer\src\Submission.Client\bin\Debug\net10.0\Submission.Client.deps.json
+C:\Users\Admin\Downloads\Bai2\RestfulClientServer\src\Submission.Client\bin\Debug\net10.0\Submission.Client.runtimeconfig.json
+C:\Users\Admin\Downloads\Bai2\RestfulClientServer\src\Submission.Client\bin\Debug\net10.0\Submission.Client.dll
+C:\Users\Admin\Downloads\Bai2\RestfulClientServer\src\Submission.Client\bin\Debug\net10.0\Submission.Client.pdb
+C:\Users\Admin\Downloads\Bai2\RestfulClientServer\src\Submission.Client\obj\Debug\net10.0\Submission.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Bai2\RestfulClientServer\src\Submission.Client\obj\Debug\net10.0\Submission.Client.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Bai2\RestfulClientServer\src\Submission.Client\obj\Debug\net10.0\Submission.Client.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Bai2\RestfulClientServer\src\Submission.Client\obj\Debug\net10.0\Submission.Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Bai2\RestfulClientServer\src\Submission.Client\obj\Debug\net10.0\Submission.Client.dll
+C:\Users\Admin\Downloads\Bai2\RestfulClientServer\src\Submission.Client\obj\Debug\net10.0\refint\Submission.Client.dll
+C:\Users\Admin\Downloads\Bai2\RestfulClientServer\src\Submission.Client\obj\Debug\net10.0\Submission.Client.pdb
+C:\Users\Admin\Downloads\Bai2\RestfulClientServer\src\Submission.Client\obj\Debug\net10.0\Submission.Client.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Bai2\RestfulClientServer\src\Submission.Client\obj\Debug\net10.0\ref\Submission.Client.dll
