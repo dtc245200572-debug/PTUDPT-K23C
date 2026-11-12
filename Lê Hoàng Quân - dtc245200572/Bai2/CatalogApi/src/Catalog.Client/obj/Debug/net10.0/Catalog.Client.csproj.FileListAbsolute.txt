@@ -1,0 +1,14 @@
+C:\Users\Admin\Bai2\CatalogApi\src\Catalog.Client\bin\Debug\net10.0\Catalog.Client.exe
+C:\Users\Admin\Bai2\CatalogApi\src\Catalog.Client\bin\Debug\net10.0\Catalog.Client.deps.json
+C:\Users\Admin\Bai2\CatalogApi\src\Catalog.Client\bin\Debug\net10.0\Catalog.Client.runtimeconfig.json
+C:\Users\Admin\Bai2\CatalogApi\src\Catalog.Client\bin\Debug\net10.0\Catalog.Client.dll
+C:\Users\Admin\Bai2\CatalogApi\src\Catalog.Client\bin\Debug\net10.0\Catalog.Client.pdb
+C:\Users\Admin\Bai2\CatalogApi\src\Catalog.Client\obj\Debug\net10.0\Catalog.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Bai2\CatalogApi\src\Catalog.Client\obj\Debug\net10.0\Catalog.Client.AssemblyInfoInputs.cache
+C:\Users\Admin\Bai2\CatalogApi\src\Catalog.Client\obj\Debug\net10.0\Catalog.Client.AssemblyInfo.cs
+C:\Users\Admin\Bai2\CatalogApi\src\Catalog.Client\obj\Debug\net10.0\Catalog.Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Bai2\CatalogApi\src\Catalog.Client\obj\Debug\net10.0\Catalog.Client.dll
+C:\Users\Admin\Bai2\CatalogApi\src\Catalog.Client\obj\Debug\net10.0\refint\Catalog.Client.dll
+C:\Users\Admin\Bai2\CatalogApi\src\Catalog.Client\obj\Debug\net10.0\Catalog.Client.pdb
+C:\Users\Admin\Bai2\CatalogApi\src\Catalog.Client\obj\Debug\net10.0\Catalog.Client.genruntimeconfig.cache
+C:\Users\Admin\Bai2\CatalogApi\src\Catalog.Client\obj\Debug\net10.0\ref\Catalog.Client.dll
